@@ -310,6 +310,7 @@ ul {
   background: #ffffff;
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -466,6 +467,7 @@ ul {
   text-align: center;
   letter-spacing: 0.06em;
   color: var(--address-text-color);
+  cursor: pointer;
 
   border: none;
   background: var(--btn-secondary-btg-color);
