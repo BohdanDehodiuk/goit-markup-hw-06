@@ -467,7 +467,6 @@ ul {
   text-align: center;
   letter-spacing: 0.06em;
   color: var(--address-text-color);
-  cursor: pointer;
 
   border: none;
   background: var(--btn-secondary-btg-color);
@@ -762,7 +761,7 @@ ul {
 .address-item .address-link {
   text-decoration: none;
 }
-.address-list .address-item:last-child {
+s .address-list .address-item:last-child {
   margin-bottom: 0px;
 }
 /* Стилизация сайтбара футера */
